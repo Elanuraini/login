@@ -1,0 +1,18 @@
+
+cara yang pertama adalah membuat navbar adalah dengan cara mencari terlebih dahulu navbar yang pas di bootstrap.
+kita copy kemudian paste di vs code. kemudian kita tambahkan atau kita ubah sesuai dengan yang kita inginkan. untuk tampilan lebih cantik kita bisa memberikan gelombang di atas penutup section
+
+selanjutnya jumbotron, dengan cara yang sama yaitu cari jumbotron di bootstrap dan pastekan di codingan yang sudah kita buat. jumbotron digunakan untuk nama yang sedikit besar dan rapi.
+
+bagian ke-3, adalah membuat about dengan cara yang sama, kemudian kita bisa rapikan agar tampilan di web bisa cantik, untuk about me kita bisa menambahkan teks dan sedikit menambahkan class agar bisa lurus serta tertata rapi
+
+embuat about dengan menambahkan terlebih dahulu section. Kemudian tambahkan kelas² dari bootstrap, dan cari template yang sesuai untuk about. Tambahkan beberapa paragraf untuk project kita. Untuk ukuran kita bisa menggunakan colok dari bootstrap. Untuk sentuhan terakhir, gunakan gelombang seperti yg diatas. 
+
+Bagian ke-3 untuk menambahkan gambar
+Kita buat lagi section untuk project, tambahkan lagi untuk ukuran ukuran yang di inginkan. Kemudian kita cari template  untuk menambahkan gambar. Kemudian masukkan gambar gambar yang sudah kita pilih ke folder img. Masukkan gambar tersebut ke kode img di vs code. Sesuaikan ukuran gambar terakhir tambahkan gelombang.
+
+Buat lagi section contact
+Tambahkan lagi kelas kelas dari bootstrap untuk merapikan tampilan di web. Kita buat form untuk menambahkan nama email dan pesan serta tombol untuk mengirim. serta tambahkan juga  gelombang
+
+Komponen terakhir yaitu footer. Tambahkan sedikit deskripsi untuk footer kita, untuk tampilan lebih cantik tambahkan class dengan nama heart-fill. Dan berikan link untuk hasil terakhir, ini option untuk linknya. 
+Selesai
